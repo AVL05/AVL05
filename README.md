@@ -29,15 +29,14 @@ Soy estudiante de **Desarrollo de Aplicaciones Web** y tengo un grado medio en *
 ---
 
 ## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleexm0&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleexm0&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleexm0&theme=radical&hide_border=true&layout=compact" alt="Top Langs" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=AVL05&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AVL05&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AVL05&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AVL05&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
