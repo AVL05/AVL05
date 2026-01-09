@@ -4,7 +4,7 @@
 
 # Alex Vicente López
 
-**Full-Stack Developer in Training | Network Systems Specialist**
+**Full-Stack Developer in Training | Creative photographer**
 
   
 
