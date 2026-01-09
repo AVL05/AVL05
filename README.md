@@ -12,11 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Web Application Development student specializing in building modern and functional interfaces. I work with technologies such as **JavaScript, PHP, Laravel, TailwindCSS, CSS3, HTML5, Bootstrap, and MySQL**, applying them in my early projects with a curious, practical mindset focused on continuous improvement.
-
-I also have experience with creative tools like **Adobe Illustrator, Adobe InDesign, Adobe Lightroom, Adobe Photoshop, and Adobe Premiere Pro**, allowing me to combine web development with a strong visual perspective.
-
-Currently learning web development and building my first applications with an open and analytical mindset. I enjoy exploring the world through both code and the camera, blending technical and creative thinking to better understand how things work and how I can improve them.
+Learning web development and building my first applications with a curious and practical mindset. I enjoy exploring the world through both code and the camera, combining technical and creative thinking to better understand how things work and how I can improve them.
 
 > *Passionate about creating efficient, user‑centered digital solutions*
 
