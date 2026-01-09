@@ -83,11 +83,9 @@ Learning web development and building my first applications with a curious and p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AVL05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AVL05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVL05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="55%" />
+![](https://github-readme-stats.vercel.app/api?username=AVL05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AVL05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AVL05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
