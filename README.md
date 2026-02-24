@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Alex
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Web+App+Developer;Creative+Photographer;Problem+Solver" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Student+Web+Developer+App;Creative+Photographer;" alt="Typing SVG" /></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aleviclop.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleviclop)
@@ -48,6 +48,8 @@ class AlexVicenteLopez {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
@@ -57,6 +59,7 @@ class AlexVicenteLopez {
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -110,6 +113,10 @@ class AlexVicenteLopez {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=footer" />
-  <p><b><i>"Building the future, one line of code at a time"</i></b></p>
+  <br/>
+  <code>{ status: "Estudiante de Desarrollo de Aplicaciones Web 💻" }</code><br/>
+  <code>{ passion: "Apasionado de la Fotografía 📸" }</code>
+  <br/>
+  <br/>
+  <p><b><i>"Diseñando el futuro y capturando el presente, una línea de código a la vez."</i></b></p>
 </div>
