@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Alex Vicente
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Developer;React+%7C+PHP+%7C+Electron;Building+web+apps+and+creative+digital+projects;Photography+%26+cinematic+visuals" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Developer;Building+web+apps+and+creative+digital+projects;Photography+%26+cinematic+visuals" alt="Typing SVG" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aleviclop.dev)
