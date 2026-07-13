@@ -10,14 +10,16 @@
 
 <br />
 
-## I turn ideas into products people can actually use.
+## I build full-stack products that solve real workflows.
 
-I'm **Alex Vicente**, a full-stack developer based in Valencia, Spain. I work at the intersection of **product engineering, automation and visual storytelling**—building polished interfaces backed by practical, maintainable systems.
+I'm **Alex Vicente**, a DAW graduate and full-stack developer based in Valencia, Spain. I build maintainable web products with **React, Laravel, PHP and MySQL**, combining practical engineering with strong visual judgement.
+
+I have professional experience modernising internal tools with **React, PHP and Electron**, working with databases and collaborating through Git and Bitbucket. I'm currently open to **junior full-stack, frontend React and backend PHP/Laravel opportunities** in Valencia, hybrid or remote.
 
 ```text
-CURRENT SIGNAL
-01  Building end-to-end web products         02  Designing clear, expressive interfaces
-03  Automating repetitive workflows          04  Creating photography-led digital experiences
+CURRENT FOCUS
+01  React interfaces and product UX          02  Laravel APIs and relational data
+03  End-to-end business workflows             04  Maintainable, production-minded delivery
 ```
 
 My approach is simple: understand the real problem, reduce the noise, and ship something thoughtful.
@@ -29,24 +31,24 @@ My approach is simple: understand the real problem, reduce the noise, and ship s
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sup>01 / DIGITAL IDENTITY</sup>
-      <h3><a href="https://github.com/AVL05/Portfolio">Portfolio ↗</a></h3>
-      <p>A personal digital space built to present projects, capabilities and visual direction with a distinctive, high-impact experience.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Motion</code></p>
+      <sup>01 / CREATIVE OPERATIONS</sup>
+      <h3><a href="https://github.com/AVL05/raw-manager">RAW Manager ↗</a></h3>
+      <p>A full-stack workspace for photographers covering clients, sessions, quotes, invoices, galleries, equipment and production planning.</p>
+      <p><code>React 19</code> <code>Laravel 13</code> <code>MySQL</code> <code>PWA</code></p>
     </td>
     <td width="50%" valign="top">
-      <sup>02 / CREATIVE OPERATIONS</sup>
-      <h3><a href="https://github.com/AVL05/raw-manager">RAW Manager ↗</a></h3>
-      <p>A SaaS workspace for professional photographers: clients, sessions, quotes, invoices and private galleries in one product.</p>
-      <p><code>JavaScript</code> <code>Full-stack</code> <code>SaaS</code></p>
+      <sup>02 / HOSPITALITY SYSTEM</sup>
+      <h3><a href="https://github.com/AVL05/distrito-gourmet">Distrito Gourmet ↗</a></h3>
+      <p>A restaurant platform connecting the customer experience with menus, reservations, orders and internal administration.</p>
+      <p><code>React</code> <code>Laravel</code> <code>MySQL</code> <code>Docker</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sup>03 / HOSPITALITY SYSTEM</sup>
-      <h3><a href="https://github.com/AVL05/distrito-gourmet">Distrito Gourmet ↗</a></h3>
-      <p>A restaurant management platform connecting the customer experience with reservations, operations and business workflows.</p>
-      <p><code>React</code> <code>Laravel</code> <code>MySQL</code></p>
+      <sup>03 / DIGITAL IDENTITY</sup>
+      <h3><a href="https://github.com/AVL05/Portfolio">Portfolio ↗</a></h3>
+      <p>A bilingual portfolio built to present projects as product case studies, with careful interaction design, accessibility and SEO.</p>
+      <p><code>Next.js 16</code> <code>TypeScript</code> <code>GSAP</code></p>
     </td>
     <td width="50%" valign="top">
       <sup>04 / VISUAL ARCHIVE</sup>
@@ -56,6 +58,12 @@ My approach is simple: understand the real problem, reduce the noise, and ship s
     </td>
   </tr>
 </table>
+
+## Experience snapshot
+
+- **Web Application Developer Intern · Burguet Sistemas (2026):** migrated and adapted internal applications using React, PHP and Electron; supported database work and version-controlled delivery.
+- **Higher Technician in Web Application Development · IES Serra Perenxisa (2024–2026):** frontend, backend, databases, deployment and modern web application architecture.
+- **IT Support Technician Intern · Municipal environment (2024):** hardware, software and user incident resolution.
 
 <div align="right">
   <a href="https://github.com/AVL05?tab=repositories"><b>VIEW THE FULL ARCHIVE →</b></a>
@@ -104,8 +112,8 @@ My approach is simple: understand the real problem, reduce the noise, and ship s
 ---
 
 <div align="center">
-  <h3>Have a product in mind?</h3>
-  <p>I'm always interested in thoughtful ideas, ambitious builds and creative collaborations.</p>
+  <h3>Looking for a junior developer who can work across the stack?</h3>
+  <p>I'm available for full-stack, React and PHP/Laravel opportunities in Valencia, hybrid or remote.</p>
   <p>
     <a href="mailto:alexviclop@gmail.com"><b>START A CONVERSATION</b></a>
     &nbsp;&nbsp;·&nbsp;&nbsp;

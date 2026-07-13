@@ -35,14 +35,14 @@
     <path d="M55 394H1225" stroke="#FFFFFF" stroke-opacity="0.09"/>
     <path d="M755 77V394" stroke="#FFFFFF" stroke-opacity="0.09"/>
 
-    <text x="55" y="54" fill="#EAFF6A" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">AVL / 05 — INDEPENDENT DIGITAL MAKER</text>
+    <text x="55" y="54" fill="#EAFF6A" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">AVL / 05 — FULL-STACK DEVELOPER</text>
     <text x="1225" y="54" text-anchor="end" fill="#9198A5" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">39.4699° N · 0.3763° W</text>
 
-    <text x="55" y="158" fill="#9198A5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">FULL-STACK DEVELOPER / VISUAL CREATOR</text>
+    <text x="55" y="158" fill="#9198A5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">REACT / LARAVEL / PHP / MYSQL</text>
     <text x="50" y="255" fill="#F4F6F8" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800" letter-spacing="-5">ALEX</text>
     <text x="50" y="338" fill="#F4F6F8" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800" letter-spacing="-5">VICENTE</text>
     <rect x="55" y="365" width="15" height="3" fill="#EAFF6A"/>
-    <text x="82" y="371" fill="#B9C0CA" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.4">ENGINEERING USEFUL IDEAS INTO DISTINCTIVE EXPERIENCES</text>
+    <text x="82" y="371" fill="#B9C0CA" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.4">BUILDING MAINTAINABLE PRODUCTS AROUND REAL WORKFLOWS</text>
 
     <circle cx="1005" cy="235" r="137" stroke="url(#orb)" stroke-width="2"/>
     <circle cx="1005" cy="235" r="105" stroke="#FFFFFF" stroke-opacity="0.10"/>
@@ -55,10 +55,10 @@
     <text x="1005" y="250" text-anchor="middle" fill="#F4F6F8" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800" letter-spacing="-2">AV</text>
 
     <rect x="1169" y="108" width="56" height="21" rx="10.5" fill="#EAFF6A"/>
-    <text x="1197" y="122" text-anchor="middle" fill="#0B0D11" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" letter-spacing="1">ONLINE</text>
-    <text x="1225" y="352" text-anchor="end" fill="#9198A5" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">CODE · DESIGN · IMAGE</text>
+    <text x="1197" y="122" text-anchor="middle" fill="#0B0D11" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" letter-spacing="1">OPEN</text>
+    <text x="1225" y="352" text-anchor="end" fill="#9198A5" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">VALENCIA · HYBRID · REMOTE</text>
 
-    <text x="55" y="432" fill="#6F7782" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">SELECTED WORK / EXPERIMENTS / OPEN SOURCE</text>
+    <text x="55" y="432" fill="#6F7782" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">PRODUCT WORK / CASE STUDIES / OPEN SOURCE</text>
     <text x="1225" y="432" text-anchor="end" fill="#EAFF6A" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2">ALEVICLOP.DEV ↗</text>
   </g>
 </svg>
