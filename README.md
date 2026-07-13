@@ -1,157 +1,117 @@
 <div align="center">
-
-# Hi there! 👋 I'm Alex Vicente
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Developer;Building+web+apps+and+creative+digital+projects;Photography+%26+cinematic+visuals" alt="Typing SVG" />
-</a>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aleviclop.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleviclop)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexviclop@gmail.com)
-
+  <img src="./assets/profile-hero.svg" width="100%" alt="Alex Vicente — Full-stack developer and visual creator" />
 </div>
 
-<br/>
+<div align="center">
+  <a href="https://aleviclop.dev"><img src="https://img.shields.io/badge/EXPLORE_THE_PORTFOLIO-EAFF6A?style=for-the-badge&labelColor=111318&color=EAFF6A" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aleviclop"><img src="https://img.shields.io/badge/LINKEDIN-111318?style=for-the-badge&logo=linkedin&logoColor=EAFF6A" alt="LinkedIn" /></a>
+  <a href="mailto:alexviclop@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-111318?style=for-the-badge&logo=gmail&logoColor=EAFF6A" alt="Email" /></a>
+</div>
 
-## 👨‍💻 `about_me.js`
+<br />
 
-```javascript
-class AlexVicente {
-  constructor() {
-    this.name = 'Alex Vicente'
-    this.alias = 'AVL05'
-    this.location = 'Valencia, Spain'
-    this.role = 'Junior Full-Stack Developer'
-    this.focus = [
-      'Web applications',
-      'Automation tools',
-      'Creative digital projects',
-      'Photography and cinematic visuals'
-    ]
-    this.mindset = 'Curious, practical and detail-oriented'
-  }
+## I turn ideas into products people can actually use.
 
-  getMission() {
-    return `I build web applications and digital tools with a practical approach.
-            I enjoy combining development, automation and visual creativity
-            to create useful, clean and user-centered experiences.`
-  }
+I'm **Alex Vicente**, a full-stack developer based in Valencia, Spain. I work at the intersection of **product engineering, automation and visual storytelling**—building polished interfaces backed by practical, maintainable systems.
 
-  getCurrentlyWorkingOn() {
-    return [
-      'Improving my portfolio at aleviclop.dev',
-      'Building full-stack projects',
-      'Exploring AI applied to development',
-      'Creating cinematic photography content'
-    ]
-  }
-}
+```text
+CURRENT SIGNAL
+01  Building end-to-end web products         02  Designing clear, expressive interfaces
+03  Automating repetitive workflows          04  Creating photography-led digital experiences
 ```
 
-<br/>
+My approach is simple: understand the real problem, reduce the noise, and ship something thoughtful.
 
-## 🛠️ `tech_stack.json`
+<br />
 
-### `> Frontend`
+## Selected work
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sup>01 / DIGITAL IDENTITY</sup>
+      <h3><a href="https://github.com/AVL05/Portfolio">Portfolio ↗</a></h3>
+      <p>A personal digital space built to present projects, capabilities and visual direction with a distinctive, high-impact experience.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Motion</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <sup>02 / CREATIVE OPERATIONS</sup>
+      <h3><a href="https://github.com/AVL05/raw-manager">RAW Manager ↗</a></h3>
+      <p>A SaaS workspace for professional photographers: clients, sessions, quotes, invoices and private galleries in one product.</p>
+      <p><code>JavaScript</code> <code>Full-stack</code> <code>SaaS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sup>03 / HOSPITALITY SYSTEM</sup>
+      <h3><a href="https://github.com/AVL05/distrito-gourmet">Distrito Gourmet ↗</a></h3>
+      <p>A restaurant management platform connecting the customer experience with reservations, operations and business workflows.</p>
+      <p><code>React</code> <code>Laravel</code> <code>MySQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <sup>04 / VISUAL ARCHIVE</sup>
+      <h3><a href="https://github.com/AVL05/alexgallery">Alex Gallery ↗</a></h3>
+      <p>A photography-first gallery where interface, atmosphere and imagery work together as a single visual narrative.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Photography</code></p>
+    </td>
+  </tr>
+</table>
 
-### `> Backend, Desktop & Database`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### `> Tools & Workflow`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-### `> Creative`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-</p>
-
-<br/>
-
-## 🚀 `featured_projects.md`
-
-### 🍽️ Distrito Gourmet
-
-Full-stack restaurant web project focused on digital presence, usability and responsive design.
-
-**Tech:** React, PHP, MySQL
-
-> More projects available soon at [aleviclop.dev](https://aleviclop.dev)
-
-<br/>
-
-## 📈 `github_analytics.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AVL05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=AVL05&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVL05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
+<div align="right">
+  <a href="https://github.com/AVL05?tab=repositories"><b>VIEW THE FULL ARCHIVE →</b></a>
 </div>
 
-<br/>
+<br />
 
-## 🤝 `connect_with_me.exe`
+## The toolkit
+
+<table>
+  <tr>
+    <td><b>BUILD</b></td>
+    <td>JavaScript · TypeScript · React · Next.js · Vue · HTML · CSS</td>
+  </tr>
+  <tr>
+    <td><b>POWER</b></td>
+    <td>PHP · Laravel · MySQL · REST APIs · Electron</td>
+  </tr>
+  <tr>
+    <td><b>SHIP</b></td>
+    <td>Git · GitHub · Vercel · Docker · CI/CD</td>
+  </tr>
+  <tr>
+    <td><b>CREATE</b></td>
+    <td>Lightroom · Photoshop · Premiere Pro · Visual storytelling</td>
+  </tr>
+</table>
+
+> Technology is only useful when it disappears behind a good experience.
+
+<br />
+
+## Open-source signal
 
 <div align="center">
-
-<a href="https://aleviclop.dev">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/aleviclop">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/aleviclop">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="mailto:alexviclop@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AVL05&theme=github_dark" alt="Alex Vicente's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AVL05&theme=github_dark" alt="Most used languages" />
 </div>
 
-<br/>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AVL05&bg_color=111318&color=E9ECF1&line=EAFF6A&point=8B9DFF&area=true&area_color=8B9DFF&hide_border=true&custom_title=CONTRIBUTION%20FREQUENCY" alt="Contribution activity graph" />
+</div>
+
+<br />
 
 ---
 
 <div align="center">
-  <br/>
-  <code>{ status: "Junior Full-Stack Developer 💻" }</code><br/>
-  <code>{ brand: "aleviclop.dev" }</code><br/>
-  <code>{ alias: "AVL05" }</code>
-  <br/>
-  <br/>
-  <p><b><i>"Building useful digital experiences and capturing visual stories."</i></b></p>
+  <h3>Have a product in mind?</h3>
+  <p>I'm always interested in thoughtful ideas, ambitious builds and creative collaborations.</p>
+  <p>
+    <a href="mailto:alexviclop@gmail.com"><b>START A CONVERSATION</b></a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://aleviclop.dev"><b>ALEVICLOP.DEV</b></a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://www.instagram.com/aleviclop"><b>VISUAL JOURNAL</b></a>
+  </p>
+  <sub>DESIGNED + ENGINEERED FROM VALENCIA · AVL05 © 2026</sub>
 </div>

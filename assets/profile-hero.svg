@@ -1,0 +1,64 @@
+<svg width="1280" height="470" viewBox="0 0 1280 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Alex Vicente — Full-stack developer and visual creator</title>
+  <desc id="desc">Editorial profile banner with an AVL monogram, development focus and Valencia coordinates.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0D11"/>
+      <stop offset="0.56" stop-color="#11151B"/>
+      <stop offset="1" stop-color="#0D1015"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="900" y1="70" x2="1130" y2="395" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAFF6A"/>
+      <stop offset="0.5" stop-color="#91A6FF"/>
+      <stop offset="1" stop-color="#A26CFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1040 245) rotate(90) scale(250)">
+      <stop stop-color="#8B9DFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8B9DFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <filter id="blur" x="760" y="-40" width="560" height="560" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+    <clipPath id="frame"><rect width="1280" height="470" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="470" fill="url(#bg)"/>
+    <rect width="1280" height="470" fill="url(#grid)"/>
+    <circle cx="1040" cy="245" r="250" fill="url(#glow)" filter="url(#blur)"/>
+
+    <path d="M0 18H1280" stroke="#EAFF6A" stroke-width="2"/>
+    <path d="M55 77H1225" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <path d="M55 394H1225" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <path d="M755 77V394" stroke="#FFFFFF" stroke-opacity="0.09"/>
+
+    <text x="55" y="54" fill="#EAFF6A" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">AVL / 05 — INDEPENDENT DIGITAL MAKER</text>
+    <text x="1225" y="54" text-anchor="end" fill="#9198A5" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">39.4699° N · 0.3763° W</text>
+
+    <text x="55" y="158" fill="#9198A5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">FULL-STACK DEVELOPER / VISUAL CREATOR</text>
+    <text x="50" y="255" fill="#F4F6F8" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800" letter-spacing="-5">ALEX</text>
+    <text x="50" y="338" fill="#F4F6F8" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800" letter-spacing="-5">VICENTE</text>
+    <rect x="55" y="365" width="15" height="3" fill="#EAFF6A"/>
+    <text x="82" y="371" fill="#B9C0CA" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.4">ENGINEERING USEFUL IDEAS INTO DISTINCTIVE EXPERIENCES</text>
+
+    <circle cx="1005" cy="235" r="137" stroke="url(#orb)" stroke-width="2"/>
+    <circle cx="1005" cy="235" r="105" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <circle cx="1005" cy="235" r="72" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <path d="M868 235H1142M1005 98V372" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <path d="M908 138L1102 332M1102 138L908 332" stroke="#FFFFFF" stroke-opacity="0.05"/>
+    <circle cx="1102" cy="138" r="5" fill="#EAFF6A"/>
+    <circle cx="908" cy="332" r="4" fill="#8B9DFF"/>
+    <circle cx="1005" cy="235" r="42" fill="#111318" stroke="#EAFF6A"/>
+    <text x="1005" y="250" text-anchor="middle" fill="#F4F6F8" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800" letter-spacing="-2">AV</text>
+
+    <rect x="1169" y="108" width="56" height="21" rx="10.5" fill="#EAFF6A"/>
+    <text x="1197" y="122" text-anchor="middle" fill="#0B0D11" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" letter-spacing="1">ONLINE</text>
+    <text x="1225" y="352" text-anchor="end" fill="#9198A5" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">CODE · DESIGN · IMAGE</text>
+
+    <text x="55" y="432" fill="#6F7782" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">SELECTED WORK / EXPERIMENTS / OPEN SOURCE</text>
+    <text x="1225" y="432" text-anchor="end" fill="#EAFF6A" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2">ALEVICLOP.DEV ↗</text>
+  </g>
+</svg>
