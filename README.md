@@ -92,6 +92,21 @@ He trabajado modernizando herramientas internas con **React, PHP y Electron**, c
   </tr>
 </table>
 
+## Actividad en GitHub
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AVL05&theme=github_dark" alt="Estadísticas de GitHub de Alex Vicente" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AVL05&theme=github_dark" alt="Lenguajes más utilizados en los repositorios de Alex Vicente" />
+</div>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AVL05/AVL05/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AVL05/AVL05/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animación de una serpiente recorriendo las contribuciones de GitHub de Alex Vicente" src="https://raw.githubusercontent.com/AVL05/AVL05/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Experiencia y formación
 
 - **Desarrollador de Aplicaciones Web en prácticas · Burguet Sistemas (2026)**  
