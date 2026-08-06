@@ -102,9 +102,9 @@ He trabajado modernizando herramientas internas con **React, PHP y Electron**, c
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AVL05/AVL05/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AVL05/AVL05/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Animación de una serpiente recorriendo las contribuciones de GitHub de Alex Vicente" src="https://raw.githubusercontent.com/AVL05/AVL05/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animación de una serpiente recorriendo las contribuciones de GitHub de Alex Vicente" src="./assets/github-contribution-grid-snake.svg" />
 </picture>
 
 ## Experiencia y formación
