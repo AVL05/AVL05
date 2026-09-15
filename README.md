@@ -9,7 +9,7 @@
 <br />
 
 <a href="https://github.com/AVL05">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=EAFF6A&center=true&vCenter=true&width=900&lines=Alex+Vicente+%E2%80%94+Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Laravel+%C2%B7+Python;Web+products+%C2%B7+AI-assisted+development+%C2%B7+Creative+tech" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=EAFF6A&center=true&vCenter=true&width=900&lines=Alex+Vicente+%E2%80%94+Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Laravel+%C2%B7+Python;Building+web+products+with+AI+%2B+visual+thinking" alt="Animated introduction" />
 </a>
 
 <br />
@@ -29,14 +29,14 @@
 
 ## About me
 
-I'm **Alex Vicente**, a Full-Stack Developer based in Valencia, Spain. I like building software end to end: from data models and APIs to interfaces, testing, deployment and the final details that make a product feel deliberate.
+I'm **Alex Vicente**, a Full-Stack Developer based in Valencia, Spain. I build software end to end: from data models and APIs to interfaces, testing, deployment and the details that make a product feel intentional.
 
-My work currently sits at the intersection of **full-stack engineering, AI-assisted development and visual design**. I use AI as an engineering tool to explore ideas faster, validate approaches and automate repetitive work, while keeping architecture, verification and product decisions explicit.
+My current work sits at the intersection of **full-stack engineering, AI-assisted development and visual design**. I use AI as an engineering tool to explore ideas faster, automate repetitive work and prototype new workflows, while keeping architecture, verification and product decisions explicit.
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS.
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS and GSAP.
 - **Backend:** PHP, Laravel, Python, FastAPI, MySQL and REST APIs.
 - **Product engineering:** authentication, testing, accessibility, SEO, CI/CD and deployment.
-- **AI / local inference:** experimentation with WebGPU, ONNX-style runtimes, computer vision and offline creative workflows.
+- **AI / local inference:** WebGPU, computer vision and offline creative workflows.
 - **Creative side:** photography, motion and interactive web experiences through **[raw.vives](https://rawvives.aleviclop.dev)**.
 
 > I care about software that is technically solid, visually intentional and useful outside a demo environment.
@@ -162,15 +162,15 @@ Bilingual portfolio where projects are presented as case studies, with a respons
 
 ### AI Creative Assistant
 
-A desktop creative pipeline focused on automating media analysis and short-form video assembly locally. The project is where I'm experimenting most heavily with **AI-assisted engineering, computer vision, WebGPU, Python inference and desktop delivery**.
+A desktop creative pipeline focused on automating media analysis and short-form video assembly locally. This is where I'm experimenting most heavily with **AI-assisted engineering, computer vision, WebGPU, Python inference and desktop delivery**.
 
 `Tauri 2` `Rust` `React 19` `TypeScript` `Python` `FastAPI` `WebGPU`
 
-<sub>Currently developed as a private work-in-progress project.</sub>
+<sub>Private work in progress.</sub>
 
 ### Nuvora
 
-A product and brand project I'm using to improve the connection between **software engineering, product design, identity and real client-facing delivery**.
+A product and brand project focused on the connection between **software engineering, product design, identity and real client-facing delivery**.
 
 <sub>Private while the product and positioning are being developed.</sub>
 
