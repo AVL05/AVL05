@@ -1,144 +1,176 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Alex Vicente — Desarrollador Full-Stack y creador visual" />
-</div>
-
-<div align="center">
-  <a href="https://aleviclop.dev"><img src="https://img.shields.io/badge/PORTFOLIO-EAFF6A?style=for-the-badge&labelColor=111318&color=EAFF6A" alt="Portfolio de Alex Vicente" /></a>
-  <a href="https://www.linkedin.com/in/aleviclop/"><img src="https://img.shields.io/badge/LINKEDIN-111318?style=for-the-badge&logo=linkedin&logoColor=EAFF6A" alt="LinkedIn de Alex Vicente" /></a>
-  <a href="mailto:alexviclop@gmail.com"><img src="https://img.shields.io/badge/CONTACTO-111318?style=for-the-badge&logo=gmail&logoColor=EAFF6A" alt="Contactar por correo" /></a>
-</div>
-
-<br />
-
-## Hola, soy Alex
-
-Desarrollador **Full-Stack** de Valencia, titulado en Desarrollo de Aplicaciones Web. Construyo productos web completos con **React, Laravel, PHP y MySQL**, cuidando tanto la arquitectura y los datos como la interfaz, la accesibilidad y la experiencia de uso.
-
-He trabajado modernizando herramientas internas con **React, PHP y Electron**, colaborando con bases de datos y flujos de trabajo versionados. Busco oportunidades junior en Valencia o remoto y también estoy disponible para pequeños proyectos freelance.
-
-> Me interesa el punto en el que una solución técnicamente sólida también se siente clara, rápida y bien diseñada.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>FRONTEND</b><br />
-      Interfaces responsive, accesibles y orientadas a producto.
-    </td>
-    <td width="33%" valign="top">
-      <b>BACKEND</b><br />
-      APIs, autenticación, lógica de negocio y datos relacionales.
-    </td>
-    <td width="34%" valign="top">
-      <b>PRODUCTO</b><br />
-      Flujos completos, pruebas, documentación y despliegue.
-    </td>
-  </tr>
-</table>
-
-## Proyectos que mejor me representan
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sup>01 · OPERACIONES + IA LOCAL</sup>
-      <h3><a href="https://github.com/AVL05/lumaflow-studio">LumaFlow Studio ↗</a></h3>
-      <p>Plataforma para gestionar el flujo de trabajo de un estudio fotográfico: clientes, sesiones, calendario, presupuestos, facturas, galerías, analítica y un asistente de IA local con WebGPU.</p>
-      <p><code>React 19</code> <code>Laravel 13</code> <code>MySQL</code> <code>WebGPU</code> <code>Docker</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <sup>02 · PRODUCTO FULL-STACK</sup>
-      <h3><a href="https://github.com/AVL05/distrito-gourmet">Distrito Gourmet ↗</a></h3>
-      <p>Aplicación desacoplada para un restaurante que conecta carta digital, reservas, pedidos y administración interna en un único sistema.</p>
-      <p><code>React 19</code> <code>Laravel 12</code> <code>MySQL</code> <code>Sanctum</code> <code>Docker</code></p>
-      <p><a href="https://distrito.aleviclop.dev/"><b>Ver demo</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sup>03 · FOTOGRAFÍA + EXPERIENCIA EDITORIAL</sup>
-      <h3><a href="https://github.com/AVL05/alexgallery">raw.vives ↗</a></h3>
-      <p>Archivo fotográfico bilingüe con series, búsqueda y filtros, navegación contextual, accesibilidad, SEO localizado y una dirección visual cinematográfica.</p>
-      <p><code>Next.js 16</code> <code>TypeScript</code> <code>GSAP</code> <code>Three.js</code> <code>Cloudflare</code></p>
-      <p><a href="https://rawvives.aleviclop.dev"><b>Visitar galería</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <sup>04 · IDENTIDAD PROFESIONAL</sup>
-      <h3><a href="https://github.com/AVL05/Portfolio">aleviclop.dev ↗</a></h3>
-      <p>Portfolio bilingüe donde presento mis proyectos como casos de estudio, con una base accesible, responsive y preparada para SEO y producción.</p>
-      <p><code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Playwright</code></p>
-      <p><a href="https://aleviclop.dev"><b>Ver portfolio</b></a></p>
-    </td>
-  </tr>
-</table>
-
-## Stack
-
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>JavaScript · TypeScript · React · Next.js · Vue · HTML · CSS · Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>PHP · Laravel · MySQL · REST APIs · Laravel Sanctum</td>
-  </tr>
-  <tr>
-    <td><b>Calidad</b></td>
-    <td>Git · GitHub · PHPUnit · Vitest · Playwright · ESLint · CI/CD</td>
-  </tr>
-  <tr>
-    <td><b>Entrega</b></td>
-    <td>Docker · Vercel · Cloudflare · PWA</td>
-  </tr>
-</table>
-
-## Actividad en GitHub
-
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AVL05&theme=github_dark" alt="Estadísticas de GitHub de Alex Vicente" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AVL05&theme=github_dark" alt="Lenguajes más utilizados en los repositorios de Alex Vicente" />
-</div>
-
-<br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Animación de una serpiente recorriendo las contribuciones de GitHub de Alex Vicente" src="./assets/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="Alex Vicente — Full-Stack Developer · Web · AI · Creative Technology">
 </picture>
 
-## Experiencia y formación
+<br>
 
-- **Desarrollador de Aplicaciones Web en prácticas · Burguet Sistemas (2026)**  
-  Migración y adaptación de aplicaciones internas con React, PHP y Electron; trabajo con bases de datos y control de versiones.
+<a href="https://github.com/AVL05">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=EAFF6A&center=true&vCenter=true&width=900&lines=Alex+Vicente+-+Full-Stack+Developer;React+%2F+Next.js+%2F+Laravel+%2F+Python;Building+web+products+with+AI+%2B+visual+thinking" alt="Animated introduction">
+</a>
 
-- **Técnico Superior en Desarrollo de Aplicaciones Web · IES Serra Perenxisa (2024–2026)**  
-  Desarrollo frontend y backend, bases de datos, despliegue y arquitectura de aplicaciones web.
+<br>
 
-- **Técnico de soporte informático en prácticas · Entorno municipal (2024)**  
-  Resolución de incidencias de hardware, software y atención a usuarios.
+<a href="https://aleviclop.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=eaff6a" alt="Portfolio"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aleviclop/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://x.com/aleviclop"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=eaff6a" alt="X"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/raw.vives/"><img src="https://img.shields.io/badge/raw.vives-0d1117?style=for-the-badge&logo=instagram&logoColor=eaff6a" alt="raw.vives on Instagram"></a>
 
-## Código y mirada visual
+<br><br>
 
-La fotografía forma parte de cómo pienso los productos: me ha enseñado a observar, ordenar la información y dar intención a cada detalle. Desarrollo mi trabajo visual bajo **raw.vives**, una marca personal centrada en fotografía y contenido cinematográfico.
+<img src="https://komarev.com/ghpvc/?username=AVL05&style=flat&color=c9df4a&label=profile+views" alt="Profile views">
 
-<a href="https://rawvives.aleviclop.dev"><b>Explorar raw.vives</b></a>
-&nbsp;·&nbsp;
-<a href="https://www.instagram.com/raw.vives/"><b>Instagram</b></a>
+</div>
 
-<br />
+---
+
+## This is me :)
+
+Hi, I'm **Alex Vicente**, a Full-Stack Developer from Valencia, Spain.
+I build complete web products and I care about the whole journey: architecture, data, interfaces, accessibility, performance and the small details that make software feel intentional.
+
+- 💻 I work mainly with **React, Next.js, TypeScript, PHP, Laravel and MySQL**.
+- 🤖 I'm actively exploring **AI-assisted development, local AI and intelligent creative tooling** as part of my engineering workflow.
+- 🧩 I enjoy turning ideas into complete products: frontend, backend, APIs, authentication, testing, deployment and documentation.
+- 📸 Photography is a second creative language for me. I build my visual work under **[raw.vives](https://rawvives.aleviclop.dev)** and bring that visual thinking into product design.
+- 🚀 I'm building projects that help me grow beyond tutorials: real applications, real constraints and real deployment decisions.
+- 💬 Talk to me about **web development, AI in software engineering, creative technology, photography or product building** and you'll have my attention.
+
+<br>
+
+<div align="center">
+
+## my perfect stack`
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,php,laravel,python,mysql,tailwind,git,github,docker,vscode,figma&perline=7" alt="Alex Vicente technology stack">
+
+</div>
 
 ---
 
 <div align="center">
-  <h3>¿Construimos algo útil?</h3>
-  <p>Disponible para oportunidades junior Full-Stack, Frontend React y Backend PHP/Laravel, además de proyectos freelance de alcance pequeño.</p>
-  <p>
-    <a href="mailto:alexviclop@gmail.com"><b>CONTACTAR</b></a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://aleviclop.dev"><b>ALEVICLOP.DEV</b></a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/aleviclop/"><b>LINKEDIN</b></a>
-  </p>
-  <sub>VALENCIA · PRESENCIAL · HÍBRIDO · REMOTO</sub>
+
+## signals
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-skills-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-skills-light.svg">
+  <img src="assets/radar-skills-dark.svg" width="400" alt="Alex Vicente focus radar">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-stack-light.svg">
+  <img src="assets/radar-stack-dark.svg" width="400" alt="Alex Vicente technology radar">
+</picture>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## selected builds
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [LumaFlow Studio ↗](https://github.com/AVL05/lumaflow-studio)
+
+Photography-studio operations platform combining clients, sessions, calendar, quotes, invoices, galleries, analytics and local AI-assisted workflows.
+
+`React 19` `Laravel 13` `MySQL` `WebGPU` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### [Distrito Gourmet ↗](https://github.com/AVL05/distrito-gourmet)
+
+Full-stack restaurant product connecting a digital menu, reservations, orders and administration into a single decoupled application.
+
+`React 19` `Laravel 12` `MySQL` `Sanctum` `Docker`
+
+**[Live demo ↗](https://distrito.aleviclop.dev/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [raw.vives ↗](https://github.com/AVL05/alexgallery)
+
+Bilingual photographic archive built around series, discovery, contextual navigation, accessibility, SEO and a cinematic visual direction.
+
+`Next.js 16` `TypeScript` `GSAP` `Three.js` `Cloudflare`
+
+**[Visit gallery ↗](https://rawvives.aleviclop.dev)**
+
+</td>
+<td width="50%" valign="top">
+
+### [aleviclop.dev ↗](https://github.com/AVL05/Portfolio)
+
+My bilingual portfolio, designed as a collection of project case studies with an accessible, responsive and production-ready foundation.
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `Playwright`
+
+**[Visit portfolio ↗](https://aleviclop.dev)**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## numbers matter? a little.
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AVL05&theme=github_dark" alt="Alex Vicente GitHub statistics">
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AVL05&theme=github_dark" alt="Alex Vicente most used GitHub languages">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AVL05&theme=github_dark" width="820" alt="Alex Vicente GitHub profile details">
+
+</div>
+
+---
+
+## current direction
+
+I'm especially interested in the intersection between **full-stack engineering, AI-assisted development and creative technology**. My goal is not to add AI for the sake of it, but to understand where it genuinely improves workflows, product capabilities and the way software gets built.
+
+At the same time, I keep developing my visual side through **photography, motion and interactive web experiences**. That mix of engineering and visual thinking is becoming a core part of how I approach projects.
+
+---
+
+<div align="center">
+
+### let's build something useful.
+
+<a href="mailto:alexviclop@gmail.com"><img src="https://img.shields.io/badge/Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=eaff6a" alt="Email Alex Vicente"></a>&nbsp;&nbsp;
+<a href="https://aleviclop.dev"><img src="https://img.shields.io/badge/aleviclop.dev-EAFF6A?style=for-the-badge&logoColor=111318" alt="aleviclop.dev"></a>
+
+<br><br>
+
+<sub><code>Valencia · Full-Stack · AI · Creative Technology</code></sub>
+
 </div>
