@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
 <title id="title">Alex Vicente developer profile banner</title>
-<desc id="desc">Terminal inspired banner for Alex Vicente, full-stack developer focused on web, AI and visual products.</desc>
+<desc id="desc">Terminal inspired banner for Alex Vicente, Junior Full-Stack Developer based in Valencia, Spain.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f14"/><stop offset="1" stop-color="#111822"/></linearGradient>
   <radialGradient id="glow" cx="78%" cy="32%" r="58%"><stop offset="0" stop-color="#eaff6a" stop-opacity=".16"/><stop offset="1" stop-color="#eaff6a" stop-opacity="0"/></radialGradient>
@@ -14,8 +14,8 @@
 <text x="170" y="78" fill="#7d8a99" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">profile.sh --live</text>
 <text x="84" y="130" fill="#eaff6a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20">$ whoami</text>
 <text x="84" y="174" fill="#f7f9fb" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="34" font-weight="700">Alex Vicente</text>
-<text x="84" y="211" fill="#a8b3bf" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="21">Full-Stack Developer · Web · AI · Creative Technology</text>
-<text x="84" y="252" fill="#7d8a99" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">Valencia, Spain  //  building useful products with code + visual thinking</text>
+<text x="84" y="211" fill="#a8b3bf" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="21">Junior Full-Stack Developer</text>
+<text x="84" y="252" fill="#7d8a99" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">Valencia, Spain  //  building web applications and digital products</text>
 <text x="84" y="288" fill="#eaff6a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">alex@github:~$ █</text>
 <circle cx="1035" cy="180" r="74" fill="#eaff6a" opacity=".07" filter="url(#soft)"/><path d="M996 200l39-67 39 67h-22l-17-31-17 31z" fill="none" stroke="#eaff6a" stroke-width="5" stroke-linejoin="round"/><circle cx="1035" cy="214" r="6" fill="#eaff6a"/>
 </svg>
