@@ -9,7 +9,7 @@
 <br />
 
 <a href="https://github.com/AVL05">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=EAFF6A&center=true&vCenter=true&width=900&lines=Alex+Vicente+%E2%80%94+Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Laravel+%C2%B7+Python;Building+web+products+with+AI+%2B+visual+thinking" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=EAFF6A&center=true&vCenter=true&width=900&lines=Alex+Vicente+%E2%80%94+Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Laravel+%C2%B7+JavaScript;Building+web+products+with+AI+%2B+visual+thinking" alt="Animated introduction" />
 </a>
 
 <br />
@@ -33,8 +33,8 @@ I'm **Alex Vicente**, a Full-Stack Developer based in Valencia, Spain. I build s
 
 My current work sits at the intersection of **full-stack engineering, AI-assisted development and visual design**. I use AI as an engineering tool to explore ideas faster, automate repetitive work and prototype new workflows, while keeping architecture, verification and product decisions explicit.
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS and GSAP.
-- **Backend:** PHP, Laravel, Python, FastAPI, MySQL and REST APIs.
+- **Frontend:** React, Next.js, JavaScript, Tailwind CSS and GSAP.
+- **Backend:** PHP, Laravel, MySQL and REST APIs.
 - **Product engineering:** authentication, testing, accessibility, SEO, CI/CD and deployment.
 - **AI / local inference:** WebGPU, computer vision and offline creative workflows.
 - **Creative side:** photography, motion and interactive web experiences through **[raw.vives](https://rawvives.aleviclop.dev)**.
@@ -47,7 +47,7 @@ My current work sits at the intersection of **full-stack engineering, AI-assiste
 
 ## Core stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,php,laravel,python,mysql,tailwind,git,github,docker,vscode,figma&perline=7" alt="Alex Vicente technology stack" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,php,laravel,mysql,tailwind,git,github,docker,vscode,figma&perline=6" alt="Alex Vicente technology stack" />
 
 </div>
 
@@ -55,8 +55,8 @@ My current work sits at the intersection of **full-stack engineering, AI-assiste
 
 <table>
 <tr>
-<td width="25%" valign="top"><b>Frontend</b><br /><sub>React · Next.js · TypeScript · Tailwind · GSAP</sub></td>
-<td width="25%" valign="top"><b>Backend</b><br /><sub>Laravel · PHP · Python · FastAPI · MySQL</sub></td>
+<td width="25%" valign="top"><b>Frontend</b><br /><sub>React · Next.js · JavaScript · Tailwind · GSAP</sub></td>
+<td width="25%" valign="top"><b>Backend</b><br /><sub>Laravel · PHP · MySQL · REST APIs</sub></td>
 <td width="25%" valign="top"><b>Quality</b><br /><sub>Git · Vitest · PHPUnit · Playwright · ESLint</sub></td>
 <td width="25%" valign="top"><b>Delivery</b><br /><sub>Docker · Vercel · Cloudflare · GitHub Actions</sub></td>
 </tr>
@@ -135,7 +135,7 @@ Decoupled restaurant application connecting digital menu, reservations, ordering
 
 Bilingual photographic archive built around series, discovery, contextual navigation, accessibility, localized SEO and a cinematic visual direction.
 
-`Next.js 16` `TypeScript` `GSAP` `Three.js` `Cloudflare`
+`Next.js 16` `React 19` `GSAP` `Three.js` `Cloudflare`
 
 **[Visit gallery ↗](https://rawvives.aleviclop.dev)**
 
@@ -148,7 +148,7 @@ Bilingual photographic archive built around series, discovery, contextual naviga
 
 Bilingual portfolio where projects are presented as case studies, with a responsive, accessible and production-oriented foundation.
 
-`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `Playwright`
+`Next.js 16` `React 19` `Tailwind CSS` `Playwright`
 
 **[Visit portfolio ↗](https://aleviclop.dev)**
 
@@ -162,9 +162,9 @@ Bilingual portfolio where projects are presented as case studies, with a respons
 
 ### AI Creative Assistant
 
-A desktop creative pipeline focused on automating media analysis and short-form video assembly locally. This is where I'm experimenting most heavily with **AI-assisted engineering, computer vision, WebGPU, Python inference and desktop delivery**.
+A desktop creative pipeline focused on automating media analysis and short-form video assembly locally. This is where I'm experimenting most heavily with **AI-assisted engineering, computer vision, WebGPU, local inference and desktop delivery**.
 
-`Tauri 2` `Rust` `React 19` `TypeScript` `Python` `FastAPI` `WebGPU`
+`Tauri 2` `Rust` `React 19` `WebGPU`
 
 <sub>Private work in progress.</sub>
 
