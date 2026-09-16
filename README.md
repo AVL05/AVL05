@@ -3,13 +3,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Alex Vicente — Full-Stack Developer · Web · AI · Creative Technology">
+  <img src="assets/banner-dark.svg" width="100%" alt="Alex Vicente — Junior Full-Stack Developer">
 </picture>
 
 <br />
 
 <a href="https://github.com/AVL05">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=EAFF6A&center=true&vCenter=true&width=900&lines=Alex+Vicente+%E2%80%94+Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Laravel+%C2%B7+JavaScript;Building+web+products+with+AI+%2B+visual+thinking" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=EAFF6A&center=true&vCenter=true&width=900&lines=Alex+Vicente+%E2%80%94+Junior+Full-Stack+Developer;Building+web+applications+and+digital+products;Learning+AI-assisted+software+development" alt="Animated introduction" />
 </a>
 
 <br />
@@ -29,17 +29,13 @@
 
 ## About me
 
-I'm **Alex Vicente**, a Full-Stack Developer based in Valencia, Spain. I build software end to end: from data models and APIs to interfaces, testing, deployment and the details that make a product feel intentional.
+I'm **Alex Vicente**, a **Junior Full-Stack Developer** based in Valencia, Spain.
 
-My current work sits at the intersection of **full-stack engineering, AI-assisted development and visual design**. I use AI as an engineering tool to explore ideas faster, automate repetitive work and prototype new workflows, while keeping architecture, verification and product decisions explicit.
+I have a background in **Web Application Development** and **Computer Systems**, with practical experience developing and maintaining software in professional environments, as well as supporting users and resolving technical incidents.
 
-- **Frontend:** React, Next.js, JavaScript, Tailwind CSS and GSAP.
-- **Backend:** PHP, Laravel, MySQL and REST APIs.
-- **Product engineering:** authentication, testing, accessibility, SEO, CI/CD and deployment.
-- **AI / local inference:** WebGPU, computer vision and offline creative workflows.
-- **Creative side:** photography, motion and interactive web experiences through **[raw.vives](https://rawvives.aleviclop.dev)**.
+I continue learning through personal projects, currently focusing on **web applications, desktop software and AI-assisted software development**. I'm especially interested in understanding how AI and agents can become useful engineering tools without replacing architecture, verification or product judgment.
 
-> I care about software that is technically solid, visually intentional and useful outside a demo environment.
+I enjoy building complete products and understanding both the technical implementation and the experience of the people using them.
 
 ---
 
@@ -66,35 +62,6 @@ My current work sits at the intersection of **full-stack engineering, AI-assiste
 
 <div align="center">
 
-## Engineering signals
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-skills-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-skills-light.svg">
-  <img src="assets/radar-skills-dark.svg" width="400" alt="Alex Vicente engineering focus" />
-</picture>
-</td>
-<td width="50%" align="center" valign="middle">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-stack-light.svg">
-  <img src="assets/radar-stack-dark.svg" width="400" alt="Alex Vicente technology focus" />
-</picture>
-</td>
-</tr>
-</table>
-
-<sub>These charts describe where I currently spend most of my time; they are not proficiency scores.</sub>
-
-</div>
-
----
-
-<div align="center">
-
 ## Selected work
 
 </div>
@@ -103,13 +70,15 @@ My current work sits at the intersection of **full-stack engineering, AI-assiste
 <tr>
 <td width="50%" valign="top">
 
-<sup>01 · PRODUCT + LOCAL AI</sup>
+<sup>01 · DESKTOP + LOCAL AI</sup>
 
-### [LumaFlow Studio ↗](https://github.com/AVL05/lumaflow-studio)
+### AI Creative Assistant
 
-Photography-studio operations platform covering clients, sessions, calendar, quotes, invoices, galleries and analytics, with local AI-assisted workflows integrated into the product.
+Desktop application for local media analysis and automated creative workflows. The project combines desktop development, multimedia processing and locally executed AI models, while serving as a practical environment for learning AI-assisted development, agents, automation and model evaluation.
 
-`React 19` `Laravel 13` `MySQL` `WebGPU` `Docker`
+`Tauri 2` `React 19` `FastAPI` `Computer Vision` `WebGPU`
+
+<sub>Private work in progress.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +87,7 @@ Photography-studio operations platform covering clients, sessions, calendar, quo
 
 ### [Distrito Gourmet ↗](https://github.com/AVL05/distrito-gourmet)
 
-Decoupled restaurant application connecting digital menu, reservations, ordering and administration in one complete workflow.
+Full-stack restaurant platform connecting a digital menu, reservations, ordering and administration in one complete workflow.
 
 `React 19` `Laravel 12` `MySQL` `Sanctum` `Docker`
 
@@ -129,50 +98,30 @@ Decoupled restaurant application connecting digital menu, reservations, ordering
 <tr>
 <td width="50%" valign="top">
 
-<sup>03 · PHOTOGRAPHY + INTERACTIVE WEB</sup>
+<sup>03 · FULL-STACK PRODUCT</sup>
+
+### [LumaFlow Studio ↗](https://github.com/AVL05/lumaflow-studio)
+
+Photography-studio operations platform covering clients, sessions, calendar, quotes, invoices, galleries and analytics, with local AI-assisted workflows integrated into the product.
+
+`React 19` `Laravel 13` `MySQL` `WebGPU` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+<sup>04 · FRONTEND + PHOTOGRAPHY</sup>
 
 ### [raw.vives ↗](https://github.com/AVL05/alexgallery)
 
-Bilingual photographic archive built around series, discovery, contextual navigation, accessibility, localized SEO and a cinematic visual direction.
+Bilingual photographic archive focused on series, discovery, contextual navigation, accessibility, localized SEO and a carefully designed visual experience.
 
 `Next.js 16` `React 19` `GSAP` `Three.js` `Cloudflare`
 
 **[Visit gallery ↗](https://rawvives.aleviclop.dev)**
 
 </td>
-<td width="50%" valign="top">
-
-<sup>04 · PERSONAL PLATFORM</sup>
-
-### [aleviclop.dev ↗](https://github.com/AVL05/Portfolio)
-
-Bilingual portfolio where projects are presented as case studies, with a responsive, accessible and production-oriented foundation.
-
-`Next.js 16` `React 19` `Tailwind CSS` `Playwright`
-
-**[Visit portfolio ↗](https://aleviclop.dev)**
-
-</td>
 </tr>
 </table>
-
----
-
-## What I'm building now
-
-### AI Creative Assistant
-
-A desktop creative pipeline focused on automating media analysis and short-form video assembly locally. This is where I'm experimenting most heavily with **AI-assisted engineering, computer vision, WebGPU, local inference and desktop delivery**.
-
-`Tauri 2` `Rust` `React 19` `WebGPU`
-
-<sub>Private work in progress.</sub>
-
-### Nuvora
-
-A product and brand project focused on the connection between **software engineering, product design, identity and real client-facing delivery**.
-
-<sub>Private while the product and positioning are being developed.</sub>
 
 ---
 
@@ -193,21 +142,13 @@ A product and brand project focused on the connection between **software enginee
 
 ## Beyond code
 
-Photography has a direct influence on how I build interfaces: hierarchy, rhythm, contrast, composition and attention to detail. I develop that work under **raw.vives**, my independent photography identity.
-
-The same principle applies to software: implementation matters, but so does how the product communicates, feels and behaves.
-
-<div align="center">
-
-<a href="https://rawvives.aleviclop.dev"><img src="https://img.shields.io/badge/EXPLORE_RAW.VIVES-0D1117?style=for-the-badge&logo=photobucket&logoColor=EAFF6A" alt="Explore raw.vives" /></a>
-
-</div>
+Photography is one of my main interests outside software development. I maintain **[raw.vives](https://rawvives.aleviclop.dev)**, a personal photography project focused on visual storytelling and web presentation.
 
 ---
 
 <div align="center">
 
-### Open to junior Full-Stack / Frontend opportunities and selected freelance projects.
+### Open to Junior Full-Stack Developer opportunities and selected freelance projects.
 
 <p>
   <a href="mailto:alexviclop@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EAFF6A" alt="Email Alex Vicente" /></a>&nbsp;
@@ -216,9 +157,5 @@ The same principle applies to software: implementation matters, but so does how 
 </p>
 
 <sub><code>Valencia, Spain · On-site · Hybrid · Remote</code></sub>
-
-<br /><br />
-
-<sub>Built with code, curiosity and an unnecessary amount of attention to detail.</sub>
 
 </div>
