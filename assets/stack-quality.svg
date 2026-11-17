@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="title">
-  <title id="title">Calidad</title>
-  <rect width="24" height="24" rx="5" fill="#123638"/>
-  <g transform="translate(3 3) scale(.9)" fill="none" stroke="#8CE8D3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m10 1.5 7 3v5c0 4.2-2.8 7.3-7 9-4.2-1.7-7-4.8-7-9v-5l7-3Z"/><path d="m6.5 10 2.5 2.5 4.5-5"/></g>
-</svg>

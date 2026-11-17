@@ -1,54 +1,53 @@
-<h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="840" alt="Alex Vicente López — Desarrollador Web Full-Stack Junior. React · Next.js · PHP/Laravel · Valencia">
-</picture>
-</h1>
+# Alex Vicente López
 
-<p>
-  <a href="https://aleviclop.dev"><img src="assets/contact-portfolio.svg" width="92" height="34" alt="Ver el portfolio de Alex Vicente López"></a>
-  <a href="https://www.linkedin.com/in/aleviclop"><img src="assets/contact-linkedin.svg" width="92" height="34" alt="Ver el perfil de Alex Vicente López en LinkedIn"></a>
-  <a href="mailto:alexviclop@gmail.com"><img src="assets/contact-email.svg" width="92" height="34" alt="Escribir a alexviclop@gmail.com"></a>
-</p>
+**Desarrollador web full-stack junior** · React, Next.js y Laravel
 
-**Valencia, España · Presencial, híbrido o remoto**
+Me gusta construir aplicaciones de principio a fin: diseñar la interfaz, conectarla con una API y modelar los datos que necesita. En mis prácticas trabajé en una intranet y en una aplicación de escritorio. En mis proyectos personales combino desarrollo, diseño de interfaces y fotografía.
 
-Desarrollador web junior con base en React/Next.js y PHP/Laravel. En mis prácticas en Burguet Sistemas desarrollé, en equipo, una aplicación de escritorio de gestión de parking (React, Electron) y evolucioné una intranet corporativa (React, PHP, MySQL). Fuera del trabajo construyo proyectos full-stack con código público, uso la IA como herramienta de desarrollo y valido el código con pruebas. Busco incorporarme a un equipo de producto en Valencia o en remoto.
+Valencia · Abierto a oportunidades presenciales, híbridas y remotas
+
+**[Ver mi portfolio](https://www.aleviclop.dev/)** · [CV en mi portfolio](https://www.aleviclop.dev/cv/CV_Alex_Vicente_Lopez.pdf?v=2026-09) · [LinkedIn](https://www.linkedin.com/in/aleviclop) · [Escríbeme](mailto:alexviclop@gmail.com)
+
+[![Un tranvía nocturno se acerca por una calle de Oporto mientras una persona espera junto a la vía.](assets/oporto-de-noche.webp)](https://rawvives.aleviclop.dev/es/photo/21)
+
+*«Última parada: la noche» · Oporto, 2024 · Fotografía propia de [raw.vives](https://rawvives.aleviclop.dev/es/archive).*
 
 ## Proyectos seleccionados
 
-### LumaFlow Studio
+### LumaFlow Studio · Gestión de estudios de fotografía y vídeo
 
-**Un CRM para estudios de foto y vídeo.** Centraliza clientes, agenda, presupuestos y entregas. Puedes recorrer el flujo del estudio sin registrarte.
+Diseñé y desarrollé una PWA que reúne clientes, sesiones, presupuestos, facturas y galerías privadas. Construí la interfaz en React y la API en Laravel con MySQL, gestioné el acceso a los datos por usuario e integré un asistente con IA local bajo demanda.
 
-**[Explorar la demo de LumaFlow](https://lumaflow.aleviclop.dev/demo)** · [Ver código](https://github.com/AVL05/lumaflow-studio)
+**[Probar la demo sin registrarse](https://lumaflow.aleviclop.dev/demo)** · [Caso de estudio](https://www.aleviclop.dev/proyectos/lumaflow-studio) · [Código](https://github.com/AVL05/lumaflow-studio)
 
-<a href="https://lumaflow.aleviclop.dev/demo"><img src="assets/lumaflow-studio.webp" width="840" alt="Demo de LumaFlow Studio con la agenda y los trabajos de un estudio fotográfico"></a>
+### Distrito Gourmet · Carta, reservas y gestión de restaurante
 
-Laravel · React · MySQL · 56 tests de backend y 33 de frontend
+En mi proyecto de fin de ciclo conecté la carta, el carrito y las reservas con los paneles que usa el personal para gestionar el restaurante. Desarrollé la interfaz con React y Tailwind CSS, la API con Laravel y el modelo de datos con MySQL. El sistema aplica permisos según el rol de cada usuario.
 
-### Distrito Gourmet y raw.vives
+**[Ver la aplicación](https://distrito-gourmet.aleviclop.dev/)** · [Caso de estudio](https://www.aleviclop.dev/proyectos/distrito-gourmet) · [Código](https://github.com/AVL05/distrito-gourmet)
 
-<p>
-  <a href="https://distrito-gourmet.aleviclop.dev/"><img src="assets/distrito-gourmet.webp" width="412" alt="Panel de Distrito Gourmet con el menú de gestión y los platos disponibles en la carta"></a>
-  <a href="https://rawvives.aleviclop.dev/es/archive"><img src="assets/raw-vives.webp" width="412" alt="Archivo de raw.vives con fotografías de un coche clásico y una torre de piedra"></a>
-</p>
+### raw.vives · Mi archivo fotográfico bilingüe
 
-**Distrito Gourmet.** Mi proyecto de fin de ciclo de DAW reúne carta digital, reservas, pedidos y gestión del restaurante. React · Laravel · MySQL · Tailwind CSS · Docker. [Demo](https://distrito-gourmet.aleviclop.dev/) · [Código](https://github.com/AVL05/distrito-gourmet)
+Diseñé y desarrollé un archivo para mis fotografías con series, filtros y fichas en español e inglés. Lo construí con Next.js, TypeScript y Tailwind CSS, con generación estática, navegación por teclado y SEO localizado.
 
-**raw.vives.** Archivo fotográfico bilingüe con fotografía propia, composición editorial e interacción. Next.js · Tailwind CSS · GSAP. [Archivo](https://rawvives.aleviclop.dev/es/archive) · [Código](https://github.com/AVL05/alexgallery)
+**[Explorar el archivo](https://rawvives.aleviclop.dev/es/archive)** · [Caso de estudio](https://www.aleviclop.dev/proyectos/raw-vives) · [Código](https://github.com/AVL05/alexgallery)
 
-**Más proyectos:** [Premium Frontend Director](https://github.com/AVL05/premium-frontend-director), skill de código abierto (MIT) para diseñar interfaces con agentes de IA · [ECHO: The Awakening](https://github.com/AVL05/echo-the-awakening), experiencia de ciencia ficción jugable en el navegador.
+En [aleviclop.dev](https://www.aleviclop.dev/#projects), mi portfolio bilingüe, cuento qué construí en cada proyecto y qué decisiones tomé durante el desarrollo.
 
-## Stack
+## Experiencia
 
-<p>
-  <img src="assets/stack-frontend.svg" width="20" height="20" alt="Icono de interfaz"> <strong>Frontend</strong> · React, Next.js, JavaScript, Tailwind CSS, GSAP<br>
-  <img src="assets/stack-backend.svg" width="20" height="20" alt="Icono de servidor"> <strong>Backend</strong> · PHP, Laravel, MySQL, APIs REST<br>
-  <img src="assets/stack-quality.svg" width="20" height="20" alt="Icono de verificación"> <strong>Calidad</strong> · Vitest, PHPUnit, Playwright, ESLint<br>
-  <img src="assets/stack-delivery.svg" width="20" height="20" alt="Icono de paquete"> <strong>Entrega</strong> · Git, Docker, Vercel, Cloudflare, GitHub Actions
-</p>
+- **Burguet Sistemas SL · Desarrollo de aplicaciones web en prácticas** (feb.–may. 2026). Desarrollé en equipo una aplicación de gestión de parking en React y Electron, con módulos de cobros, caja y turnos. También añadí funcionalidades a una intranet en React, PHP y MySQL, diseñé tablas y resolví incidencias. Usé Git y Bitbucket para coordinar el trabajo.
+- **Ajuntament de Carlet · Soporte informático en prácticas** (mar.–jun. 2024). Instalé y mantuve equipos, redes y cableado, y di soporte a usuarios.
 
-## Formación
+## Tecnologías y forma de trabajar
 
-Técnico Superior en DAW · Técnico en SMR · Curso AWS Academy Cloud Foundations (2025–2026)
+- **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS y GSAP. Cuido la accesibilidad y el diseño responsive.
+- **Backend y datos:** PHP, Laravel, APIs REST y MySQL. Trabajo con modelos relacionales y permisos de acceso.
+- **Pruebas y despliegue:** Git, Docker, CI/CD, Vercel y Cloudflare. Uso IA como apoyo y valido el código con revisión y pruebas.
+
+## Formación e idiomas
+
+- **Desarrollo de Aplicaciones Web** · IES Serra Perenxisa (2024–2026).
+- **Sistemas Microinformáticos y Redes** · Enseñanzas Profesionales Sorolla (2022–2024).
+- **AWS Academy Cloud Foundations** · Curso 2025–2026.
+- **Idiomas:** español y valenciano nativos · inglés B1 (EF SET).
