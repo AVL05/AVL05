@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="100" viewBox="0 0 620 100" role="img" aria-labelledby="title">
+  <title id="title">ECHO: The Awakening. Experiencia de ciencia ficción jugable en el navegador. React, Vite, Three.js, WebLLM.</title>
+  <rect x="1" y="1" width="618" height="98" rx="12" fill="#152427" stroke="#304A4D" stroke-width="2"/>
+  <rect x="1" y="15" width="3" height="70" rx="1.5" fill="#8CE8D3"/>
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="20" y="33" font-size="27" font-weight="730" fill="#F1FAF9">ECHO: The Awakening</text>
+    <text x="20" y="57" font-size="21" fill="#C2D6D5">Experiencia de ciencia ficción jugable en el navegador.</text>
+    <rect x="20" y="64" width="69" height="26" rx="7" fill="#263D40"/>
+    <text x="54.5" y="83" text-anchor="middle" font-size="18" font-weight="650" fill="#8CE8D3">React</text>
+    <rect x="95" y="64" width="52" height="26" rx="7" fill="#263D40"/>
+    <text x="121" y="83" text-anchor="middle" font-size="18" font-weight="650" fill="#8CE8D3">Vite</text>
+    <rect x="153" y="64" width="87" height="26" rx="7" fill="#263D40"/>
+    <text x="196.5" y="83" text-anchor="middle" font-size="18" font-weight="650" fill="#8CE8D3">Three.js</text>
+    <rect x="246" y="64" width="88" height="26" rx="7" fill="#263D40"/>
+    <text x="290" y="83" text-anchor="middle" font-size="18" font-weight="650" fill="#8CE8D3">WebLLM</text>
+  </g>
+</svg>

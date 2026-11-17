@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="100" viewBox="0 0 620 100" role="img" aria-labelledby="title">
+  <title id="title">raw.vives. Archivo fotográfico bilingüe. Next.js, Tailwind, GSAP.</title>
+  <rect x="1" y="1" width="618" height="98" rx="12" fill="#F5F9F8" stroke="#CEDDD9" stroke-width="2"/>
+  <rect x="1" y="15" width="3" height="70" rx="1.5" fill="#00685F"/>
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="20" y="33" font-size="27" font-weight="730" fill="#102525">raw.vives</text>
+    <text x="20" y="57" font-size="21" fill="#334C4D">Archivo fotográfico bilingüe.</text>
+    <rect x="20" y="64" width="75" height="26" rx="7" fill="#E1EFEB"/>
+    <text x="57.5" y="83" text-anchor="middle" font-size="18" font-weight="650" fill="#00685F">Next.js</text>
+    <rect x="101" y="64" width="86" height="26" rx="7" fill="#E1EFEB"/>
+    <text x="144" y="83" text-anchor="middle" font-size="18" font-weight="650" fill="#00685F">Tailwind</text>
+    <rect x="193" y="64" width="70" height="26" rx="7" fill="#E1EFEB"/>
+    <text x="228" y="83" text-anchor="middle" font-size="18" font-weight="650" fill="#00685F">GSAP</text>
+  </g>
+</svg>

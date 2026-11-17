@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="title">
+  <title id="title">Entrega</title>
+  <rect width="24" height="24" rx="5" fill="#123638"/>
+  <g transform="translate(3 3) scale(.9)" fill="none" stroke="#8CE8D3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m10 1.5 7.5 4.3v8.4L10 18.5l-7.5-4.3V5.8L10 1.5Zm0 8.5 7.5-4.2M10 10 2.5 5.8M10 10v8.5"/></g>
+</svg>
